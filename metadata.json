@@ -1,12 +1,12 @@
 {
-  "name": "puppet-hieradata",
+  "name": "puppet-site_data",
   "version": "0.1.0",
   "author": "Peter J. Pouliot",
-  "summary": "A sample hiera data repository to easily bootstrap r10k/puppet and git work flows.",
+  "summary": "A site environment for r10k git work flows.",
   "license": "Apache 2.0",
-  "source": "https://github.com/ppouliot/puppet-hieradata",
-  "project_page": "https://github.com/ppouliot/puppet-hieradata",
-  "issues_url": "https://github.com/ppouliot/puppet-hieradata/issues",
+  "source": "https://github.com/ppouliot/puppet-site_data",
+  "project_page": "https://github.com/ppouliot/puppet-site_data",
+  "issues_url": "https://github.com/ppouliot/puppet-site_data/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ]
