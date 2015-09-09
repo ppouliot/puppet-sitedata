@@ -1,4 +1,4 @@
-#puppet-site_data (PRODUCTION)
+#puppet-site_data (DEVELOPMENT)
 
 #### Table of Contents
 
