@@ -1,4 +1,4 @@
-#puppet-site_data
+#puppet-site_data (PRODUCTION)
 
 #### Table of Contents
 
@@ -18,7 +18,7 @@ puppetmaster properly with hiera.
 
 ## Module Description
 
-This contains the example hiera data directory structure.
+This contains the production site directory structure.
 
 We will be utilzing git branches, R10K, and The Puppet Environments and Rolls concepts.
 to dynamically create our data structure for puppet infrastructure.
